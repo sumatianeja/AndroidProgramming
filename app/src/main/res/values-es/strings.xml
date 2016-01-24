@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculadora de hipoteca</string>
+    <string name="enter_amount">Ingrese el monto: </string>
+    <string name="rate_of_interest">Tasa de interés: %1$.1f</string>
+    <string name="loan_period">Plazo del préstamo</string>
+    <string name="taxes_and_insurance">Impuestos y Seguros</string>
+    <string name="calculate">Calcular</string>
+    <string name="monthly_payment">El pago mensual: %1$.2f</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="missingEntries">entradas que faltan</string>
+    <string name="ok">Okay</string>
+    <string name="provideEntries">Por favor, rellene todos los valores</string>
+</resources>
