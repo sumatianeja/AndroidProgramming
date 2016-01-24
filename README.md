@@ -35,5 +35,4 @@ Other Requirements
     Provide support for English and another language using resource files.
 
 
-![alt tag](https://raw.github.com/sumatianeja/android_programming/master/mortgageCalulator1.png)
-![alt tag](https://raw.github.com/sumatianeja/android_programming/master/mortgageCalulator2.png)
+
